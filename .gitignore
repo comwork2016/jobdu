@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+#vc++6.0 files
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+*/Debug/*
