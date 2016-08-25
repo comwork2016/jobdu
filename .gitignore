@@ -35,3 +35,8 @@
 *.opt
 *.plg
 */Debug/*
+
+#codeblocks
+*.cbp
+*.layout
+*.depend
